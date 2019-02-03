@@ -1,0 +1,155 @@
+body {
+    background: url("../images/concrete_seamless.png");
+  }
+
+p {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+}
+  
+.main {
+    overflow: hidden;
+}
+
+.navbar {
+    border-bottom: 2px solid #cccccc;
+    height: 100px;
+    position: fixed;
+}
+
+#masthead {
+    background-color: aquamarine;
+}
+
+.container {
+    width: 960px;
+    }
+
+.auth-image {
+    width: 300px;
+    padding: 20px 20px 0 0;
+    float: left;
+}
+
+#nav {
+    width: 960px;
+    margin: 0 auto 0 auto;
+    }
+
+#navbarResponsive {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#logo {
+    float: left;
+    width: 250px;
+    height: 100px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+    margin: 0 0 0 0;
+  }
+
+  #main-container {
+    width: 960px;
+    background: #ffffff;
+    margin-top: 30px; 
+    border: 1px solid #dddddd;
+  }
+
+  #footer {
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 30px 0;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+    line-height: 10px;
+ }
+
+  #footer a {
+    color: #cccccc;  
+  }
+
+  #columns {
+      clear: both;
+      width: 960px;
+      margin-top: 40px;
+      padding-left: 30px;
+      padding-right: 30px;
+  }
+
+  #columns img {
+      width: 100%;
+  }
+
+  h1 {
+
+    padding-bottom: 20px;
+    line-height: 49px;
+   }
+
+  #About, #myworks {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #4aaaa5;
+    padding-top: 30px;
+    border-bottom: 3px solid #dddddd;
+  }
+
+  .col-sm h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    position: absolute;
+    bottom: 20px;
+    width: 280px;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+
+  .work {
+    width: 960px;
+    margin: 40px auto 0 auto;
+    background: #ffffff;
+  }
+
+  #myworks {
+    margin: 0 30px 0 30px;
+  }
+
+  .row {
+      margin-bottom: 30px;
+  }
+
+  .form-group {
+      margin-bottom: 30px;
+  }
+
+  .btn {
+      margin-bottom: 30px;
+  }
+
+  #button {
+    color: #ffffff;
+    background: #4aaaa5;
+    border: 0;
+  }
